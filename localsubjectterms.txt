@@ -1,0 +1,72 @@
+accusative case
+accusative alignment
+active
+affectedness
+affectedness scale
+agentivity
+alignment system
+animacy
+animacy hierarchy
+animacy scale
+animate
+argument structure
+atelic
+blocking effect
+case hierarchy
+case marking
+clitic doubling
+complex predicate
+conjugational split
+contrastive focus
+dative case
+definite
+definiteness
+diachronic corpus
+diachronic development
+diachrony
+differential argument marking
+direct object
+discourse prominence
+discourse topic
+ditransitive
+elative case
+equative
+ergative case
+event structure
+experiencer
+focus marker
+genitive case
+grammaticalization
+grammaticalization path
+illative case
+inanimate
+indefinite
+indirect object
+inflectional class
+information structure
+intransitive
+locative case
+markedness
+nominative case
+object marker
+objective conjugation
+optionality
+partitive case
+partitive object
+partitive subject
+patient argument
+possessive case
+presentative meaning
+referentiality
+semantic alignment
+semantic role
+subjective conjugation
+synchronic variation
+telicity
+thematic role
+topicality
+transitivity
+undergoer
+unexpectedness
+verb-type hierarchy
+word order
