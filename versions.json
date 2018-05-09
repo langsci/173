@@ -2,7 +2,12 @@
   "versions": [{
     "versiontype": "proofreading",
     "title": "Diachrony of differential argument marking",
-    "authors": [{"name": "Ilja A. Seržant and Alena Witzlack-Makarevich"}],
+    "authors": [{"name": "Ilja A. Seržant"},{"name": "Alena Witzlack-Makarevich"}],
     "publishedAt": "2017-07-19T15:00:00.000Z"
+  },{
+    "versiontype": "first_edition",
+    "title": "Diachrony of differential argument marking",
+    "authors": [{"name": "Ilja A. Seržant"},{"name": "Alena Witzlack-Makarevich"}],
+    "publishedAt": "2018-05-09T15:00:00.000Z"
   }]
 }
